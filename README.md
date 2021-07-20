@@ -1,2 +1,2 @@
-# CRUSH-THE-ZOMBIE-3
-game
+# zombie-crush-3
+project solution of c31
